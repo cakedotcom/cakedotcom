@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cakedotcom
 - 👀 I’m interested in Backend Development
-- 🌱 I’m currently learnin Java
+- 🌱 I’m currently learning Java
 - 📫 How to reach me @thisiskei07@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I do Music
